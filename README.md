@@ -2,7 +2,7 @@
 
 ### and here is my stats
 <p>
-<img align="Center" alt="Coding" width"10" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<img align="Center" width"10" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Backend_Development.gif" />
 </p>
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Kenzoham&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
