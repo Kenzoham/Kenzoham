@@ -1,10 +1,13 @@
 ### Hi there, I'm Abdullah Ilham 👋
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/Kenzoham/badges/large"/><br /><br />
+<p>
+<img align="Center" alt="Coding" width"10" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+</p>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Kenzoham&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzoam&layout=compact&theme=monokai&langs_count=12"/><br />
+  
 </p>
 
 <!--
